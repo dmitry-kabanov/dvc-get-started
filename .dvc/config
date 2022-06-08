@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = /tmp/dvc-get-started
+    url = ssh://aiuser@ai-workstation/hddb/data/dvc-tutorial
